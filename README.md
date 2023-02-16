@@ -4,4 +4,5 @@ http://paulhoughton.github.io/mortgage/
 
 See also [Mobx](https://github.com/paulhoughton/mortgage-mobx/) version
 
-**** to be used for class assignment only
+**** to be used for class assignment only 
+** for Training Purposes
